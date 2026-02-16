@@ -555,9 +555,8 @@ Estudante de Estatística e entusiasta de Computer Vision & Deep Learning
 
 Para dúvidas, sugestões ou colaborações:
 
-- 📧 Email: [seu-email@example.com]
+- 📧 Email: [kauadp1405@example.com]
 - 💬 Issues: [GitHub Issues](https://github.com/seu-usuario/penalty-prediction/issues)
-- 🐦 Twitter: [@seu_twitter]
 
 ---
 
